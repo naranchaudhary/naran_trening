@@ -1,0 +1,6 @@
+.container{
+    border: 5px solid black;
+}
+.container-fluid{background-color: antiquewhite;}
+.row{border: 2px solid blue;}
+.col{border: 2px solid green;}

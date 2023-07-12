@@ -1,0 +1,116 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    }
+    .row{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .d1{
+      position: fixed;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100px;
+      background-color: rgb(112, 16, 197);
+    }
+    .naran{
+        width: 100%;
+        height: auto;
+        display: flex;
+        padding: 50px;
+    }
+    .nh1{
+        width: 50%;
+        height: auto;
+        display: flex;
+    }
+    .nh2{
+    width: 50%;
+    display: flex;
+    justify-content: right;
+    gap: 15px;
+    
+    }
+    .icon2 a{
+        padding: 15px 10px;
+        text-decoration: none;
+        color: black;
+        font-weight: 400;
+        font-size: 18px;
+    }
+    .icon2{
+         padding-top: 4px;
+    }
+    
+    .box2 a{
+        text-decoration: none;
+        color: aqua;
+        border: 2px solid aqua;
+        padding: 10px 15px;
+    }
+   .col{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    background-color: gainsboro;
+   }
+   .col1{
+    width: 50%;
+    flex-wrap: wrap;
+    margin-left: 230px;
+   }
+   .col5{
+      padding-top: 30px;
+
+
+
+   }
+   .col5 a{
+    background-color: #09E5AB;
+    padding: 14px 113px;
+    text-decoration: none;
+    color:white;
+    
+   }
+     
+.footer{
+    width: 100%;
+    display: flex;
+background-color: cornflowerblue;
+color: white;
+margin-top: 40px;
+  
+
+}
+.f1{
+    width: 25%;
+    padding-bottom: 40PX;
+    padding-top: 20px;
+    margin-left: 40px;
+}
+
+.f1{
+    width: 25%;
+    padding-bottom: 40PX;
+    padding-top: 20px;
+    margin-left: 40px;
+}
+.f2{
+    width: 25%;
+    text-align: center;
+    padding-top: 20px;
+}
+.h1{
+    padding-top: 20px;
+}
+.f3{
+    width: 25%;
+    text-align: center;
+    padding-top: 20px;
+}
+.f4{
+    width: 25%;
+    text-align: center;
+    padding-top: 20px;
+}
